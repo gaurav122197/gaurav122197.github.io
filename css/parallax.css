@@ -29,8 +29,8 @@
 }
 
 .bgimg-1 {
-  background-image: url("https://github.com/gaurav122197/gaurav122197.github.io/blob/master/me.jpg");
-  min-height: 150%;
+  background-image: url('master/me.jpg');
+  min-height: 100%;
 }
 
 .caption span.border {
