@@ -1,0 +1,61 @@
+.item-active {
+  width:100%;
+  height:auto;
+}
+
+.carousel-indicators li {
+  visibility: hidden;
+}
+
+.carousel-caption {
+  top: 10;
+  right: auto;
+}
+
+.carousel-caption {
+  top: 10;
+  right: auto;
+}
+
+.bgimg-1,
+.bgimg-2,
+.bgimg-3 {
+  position: relative;
+  opacity: 0.65;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgimg-1 {
+  background-image: url("/home/gaurav122197/personal_website/img/me.jpeg");
+  min-height: 100%;
+}
+
+.caption span.border {
+  color: #4c4c4c;
+  padding: 18px;
+  font-size: 40px;
+  letter-spacing: 5px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 30%;
+  width: 100%;
+  text-align: left;
+  color: #4c4c4c;
+}
+h3 {
+  color: #4c4c4c;
+  font-size: 20px;
+}
+
+/* Turn off parallax scrolling for tablets and phones */
+@media only screen and (max-device-width: 1024px) {
+    .bgimg-1, .bgimg-2, .bgimg-3 {
+        background-attachment: scroll;
+    }
+}
