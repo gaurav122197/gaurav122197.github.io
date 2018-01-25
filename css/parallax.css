@@ -29,7 +29,7 @@
 }
 
 .bgimg-1 {
-  background-image: url("img/chatbot.jpg");
+  background-image: url(image("chatbot.jpg"));
   min-height: 150%;
 }
 
