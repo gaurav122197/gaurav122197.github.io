@@ -29,7 +29,7 @@
 }
 
 .bgimg-1 {
-  background-image: url('master/me.jpg');
+  background-image: url("img/me.jpg");
   min-height: 100%;
 }
 
