@@ -29,7 +29,7 @@
 }
 
 .bgimg-1 {
-  background-image: url("/home/gaurav122197/personal_website/img/me.jpeg");
+  background-image: url("img/me.jpeg");
   min-height: 100%;
 }
 
