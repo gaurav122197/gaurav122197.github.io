@@ -21,7 +21,7 @@
 .bgimg-2,
 .bgimg-3 {
   position: relative;
-  opacity: 0;
+  opacity: 0.65;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -29,7 +29,7 @@
 }
 
 .bgimg-1 {
-  background-image: url(image("chatbot.jpg"));
+  background-image: url("https://github.com/gaurav122197/gaurav122197.github.io/blob/master/img/me.jpg");
   min-height: 150%;
 }
 
