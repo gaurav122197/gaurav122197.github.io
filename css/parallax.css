@@ -29,8 +29,8 @@
 }
 
 .bgimg-1 {
-  background-image: url("img/me.jpeg");
-  min-height: 50%;
+  background-image: url("me.jpeg");
+  min-height: 100%;
 }
 
 .caption span.border {
